@@ -45,7 +45,7 @@
   "devDependencies": {
     "auto-changelog": "^1.16.1",
     "concat-stream": "^2.0.0",
-    "nyc": "^14.1.1",
+    "nyc": "^18.0.0",
     "standard": "^17.1.2",
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0"
